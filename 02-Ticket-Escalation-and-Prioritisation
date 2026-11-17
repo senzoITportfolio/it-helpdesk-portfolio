@@ -62,7 +62,8 @@ Activities performed:
 
 ## 6. Screenshots and Evidence
 
-Screenshots will provide visual evidence of ticket prioritisation, escalation, reassignment, and communication activities.
+
+
 
 ## 7. Skills Developed
 
@@ -71,7 +72,19 @@ Screenshots will provide visual evidence of ticket prioritisation, escalation, r
 - Business impact assessment.
 - Ticket reassignment and ownership.
 - Technical documentation.
-- Customer communication.
+- Customer communication.## Screenshots
+
+### 1. Ticket Prioritization
+![Ticket Prioritization](screenshots/01-Ticket-Prioritization.png)
+
+### 2. Business Impact
+![Business Impact](screenshots/02-Business-Impact.png)
+
+### 3. Ticket Escalation
+![Ticket Escalation](screenshots/03-Ticket-Escalation.png)
+
+### 4. Escalation Communication
+![Escalation Communication](screenshots/04-Escalation-Communication.png)
 - IT Help Desk operations.
 
 ## 8. Learning Outcomes
