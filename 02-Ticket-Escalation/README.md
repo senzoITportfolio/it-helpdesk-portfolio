@@ -63,18 +63,16 @@ Activities performed:
 ## 6. Screenshots and Evidence
 
 ### 1. Ticket Prioritization
-![Ticket Prioritization](screenshots/Ticket-Prioritization.png)
+![Ticket Prioritization](<Ticket Prioritization.png>)
 
 ### 2. Business Impact
-![Business Impact](screenshots/Business-Impact.png)
+![Business Impact](<Business Impact.png>)
 
 ### 3. Ticket Escalation
-![Ticket Escalation](screenshots/Ticket-Escalation.png)
+![Ticket Escalation](<Ticket Escalation.png>)
 
 ### 4. Escalation Communication
-![Escalation Communication](screenshots/Escalation-Communication.png)
-
-
+![Escalation Communication](<Escalation Communication.png>)
 
 
 ## 7. Skills Developed
