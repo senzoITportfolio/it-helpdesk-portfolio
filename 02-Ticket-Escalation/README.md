@@ -72,7 +72,7 @@ Activities performed:
 ![Ticket Escalation](<Ticket Escalation.png>)
 
 ### 4. Escalation Communication
-![Escalation Communication](<Escalation Communication.png>)
+![Escalation Communication](Escalation%20Communication.png)
 
 
 ## 7. Skills Developed
