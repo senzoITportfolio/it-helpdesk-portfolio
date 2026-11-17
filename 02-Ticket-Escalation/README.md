@@ -62,18 +62,19 @@ Activities performed:
 
 ## 6. Screenshots and Evidence
 
-### 1.Ticket Prioritization
-![Ticket Prioritization](screenshots/01-Ticket-Prioritization.png)
+### 1. Ticket Prioritization
+![Ticket Prioritization](screenshot/01-Ticket-Prioritization.png)
 
 ### 2. Business Impact
-![Business Impact](screenshots/02-Business-Impact.png)
+![Business Impact](screenshot/02-Business-Impact.png)
 
 ### 3. Ticket Escalation
-![Ticket Escalation](screenshots/03-Ticket-Escalation.png)
+![Ticket Escalation](screenshot/03-Ticket-Escalation.png)
 
 ### 4. Escalation Communication
-![Escalation Communication](screenshots/04-Escalation-Communication.png)
+![Escalation Communication](screenshot/04-Escalation-Communication.png)
 - IT Help Desk operations.
+
 
 
 ## 7. Skills Developed
