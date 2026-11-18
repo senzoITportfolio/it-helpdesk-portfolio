@@ -34,29 +34,23 @@ Understanding service-level agreements, deadlines, and overdue tickets.
 
 View Lab 3
 
-04 – Customer Communication and Follow-ups
+04 – Ticket Communication & Customer Support
 
 Practising professional customer communication and ticket follow-up procedures.
 
 View Lab 4
 
-05 – Assignment, Queues and Workload
-
-Understanding ticket assignment, support queues, and workload distribution.
-
-View Lab 5
-
-06 – Knowledge Base and Canned Responses
+05 – Knowledge Base and Canned Responses
 
 Working with knowledge base articles and reusable customer support responses.
 
-View Lab 6
+View Lab 5
 
-07 – Troubleshooting and Incident Documentation
+06 – Troubleshooting and Incident Documentation
 
 Applying troubleshooting methods and documenting technical incidents.
 
-View Lab 7
+View Lab 6
 
 Skills Demonstrated
 Help Desk Ticket Management
