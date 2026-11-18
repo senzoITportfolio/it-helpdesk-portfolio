@@ -57,4 +57,17 @@ Professional communication helps improve customer experience and maintain accura
 
 ## 9. Screenshots
 
-Screenshots demonstrating the practical activities and ticket communication process are provided below.
+### Ticket Overview
+![Ticket](Ticket.png)
+
+### Public Reply
+![Public Reply](Public%20Reply.png)
+
+### Communication History
+![Communication History](Communication%20history.png)
+
+### Internal Note
+![Internal Note](Internal%20note.png)
+
+### Resolution Reply
+![Resolution Reply](Resolution%20Reply.png)
