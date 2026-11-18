@@ -1,17 +1,16 @@
-# 06 – Knowledgebase and Canned Responses
+# 05 – Knowledgebase and Canned Responses
 
 ## 1. Lab Overview
 
-This lab demonstrates how to create and manage knowledgebase articles and canned responses using osTicket. It focuses on documenting common IT support solutions, organising technical information, and creating reusable responses to improve help desk efficiency and customer service.
+This lab demonstrates the creation and management of a Knowledgebase article and a reusable canned response using osTicket. The exercise focuses on documenting common IT support procedures and improving response efficiency through predefined support instructions.
 
 ## 2. Objectives
 
-- Understand the purpose of a Help Desk knowledgebase.
-- Create and organise knowledgebase articles.
-- Document solutions to common technical problems.
+- Create and organise a Knowledgebase category.
+- Add frequently asked questions (FAQs).
+- Document step-by-step troubleshooting instructions.
 - Create reusable canned responses.
-- Apply canned responses when handling support tickets.
-- Improve consistency and efficiency in customer support.
+- Understand how canned responses improve Help Desk efficiency.
 
 ## 3. Environment and Tools
 
@@ -21,51 +20,54 @@ This lab demonstrates how to create and manage knowledgebase articles and canned
 - **Database:** MariaDB
 - **Lab Type:** Practical IT Support / Help Desk Simulation
 
-## 4. Knowledgebase Management
+## 4. Knowledgebase Category Creation
 
-A knowledgebase provides a central location where support teams can store technical guides, troubleshooting instructions, and solutions to frequently reported problems.
+Created a Knowledgebase category named:
 
-Knowledgebase articles were created to document common IT support issues, making technical information easier to access and reuse.
+**Account and Password Support**
 
-## 5. Knowledgebase Articles
+The category provides an organised location for storing frequently asked questions and password-related support information.
 
-The following support topics were used to demonstrate knowledgebase documentation:
+## 5. Frequently Asked Question (FAQ)
 
-- Password Reset Guide.
-- Microsoft 365 Access Troubleshooting.
-- Wi-Fi Connectivity Troubleshooting.
+Created a Knowledgebase article with the following question:
 
-These articles provide structured guidance for resolving common user support requests.
+**How do I reset my Windows password?**
 
-## 6. Canned Responses
+A step-by-step answer was added to guide users through the password-reset process.
 
-Canned responses are predefined messages that support agents can reuse when communicating with customers.
+The article provides users with self-service guidance for a common IT support request.
 
-They help reduce repetitive typing, maintain consistent communication, and improve response efficiency.
+## 6. Canned Response Creation
 
-Reusable responses were prepared for common help desk scenarios, including:
+Created a reusable canned response named:
 
-- Ticket acknowledgement.
-- Password reset assistance.
-- Microsoft 365 troubleshooting.
-- Ticket resolution notification.
+**Password Reset Assistance**
+
+The response contains the step-by-step password-reset instructions documented in the Knowledgebase article.
+
+This allows support agents to reuse the instructions when responding to password-reset support tickets.
 
 ## 7. Applying Canned Responses
 
-Canned responses can be selected by support agents when replying to customer tickets.
+Tested the Password Reset Assistance canned response when replying to a customer support ticket.
 
-This allows agents to provide consistent information while reducing the time required to respond to frequently reported issues.
+The saved response was selected and applied to the ticket reply, demonstrating how agents can reuse predefined instructions when assisting customers.
 
-## 8. Key Skills Demonstrated
+This helps reduce repetitive typing, improve response consistency, and make ticket handling more efficient.
 
-- Knowledgebase administration.
-- Technical documentation.
-- Troubleshooting documentation.
-- Canned response management.
-- Customer communication.
+## 8. Practical Outcome
+
+The exercise demonstrated how a Help Desk team can document common technical solutions, create reusable responses, and apply those responses during customer support interactions.
+
+## 9. Key Skills Demonstrated
+
+- Knowledgebase category management.
+- FAQ creation and documentation.
+- Windows password-reset support documentation.
+- Canned response configuration and application.
+- Customer support communication.
 - Help Desk workflow efficiency.
 - osTicket administration.
 
-## 9. Screenshots
-
-Screenshots demonstrating knowledgebase management, article creation, canned response configuration, and practical usage are provided below.
+## 10. Screenshots
