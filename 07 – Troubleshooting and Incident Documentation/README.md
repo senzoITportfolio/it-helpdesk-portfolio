@@ -67,4 +67,25 @@ The troubleshooting findings, identified root cause, corrective action, and reso
 - Corrective action implementation
 - Incident documentation and resolution
 
-  ## 10. Screenshots
+  ## 10. Screenshots and Evidence
+
+The following screenshots document the troubleshooting and incident management process:
+
+### 01. Incident Reporting
+![Incident Reporting](Incident%20reporting.png)
+
+### 02. Initial Assessment
+![Initial Assessment](Initial%20assessment.png)
+
+### 03. Troubleshooting and Investigation
+![Troubleshooting and Investigation](Troubleshooting%20and%20Investigation.png)
+
+### 04. IP Configuration Check
+![IP Configuration Check](IP%20Configuration%20check.png)
+
+### 05. Root Cause and Corrective Actions
+![Root Cause and Corrective Actions](Root%20cause%20and%20Corrective%20action.png)
+
+### 06. Resolution and Closure
+![Resolution and Closure](Resolution%20and%20Closure.png)
+  
