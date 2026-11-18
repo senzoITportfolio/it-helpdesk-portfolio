@@ -71,3 +71,18 @@ The exercise demonstrated how a Help Desk team can document common technical sol
 - osTicket administration.
 
 ## 10. Screenshots
+
+### Knowledgebase Category
+![Knowledgebase Category](Knowledgebase%20Category.png)
+
+### FAQ Article Creation
+![FAQ Article Creation](FAQ%20Article%20creation.png)
+
+### FAQ Article Documentation
+![FAQ Article Documentation](FAQ%20Article%20Docummentation.png)
+
+### Canned Response Creation
+![Canned Response Creation](Canned%20response%20creation.png)
+
+### Canned Response Application
+![Canned Response Application](Canned%20response%20application.png)
