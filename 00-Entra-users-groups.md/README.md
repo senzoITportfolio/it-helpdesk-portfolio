@@ -19,7 +19,7 @@ Microsoft Entra ID (Free tier) for a fictional company.
 | Zanele Cele | Sales Manager | Sales |
 
 **Steps:** Entra ID > Users > New user > Create new user
-**Screenshot:** ![users](screenshots/users-list.png)
+**Screenshot:** ![New user add](New%20user%20add.png)
 
 ## 2. Security groups
 | Group | Members |
@@ -29,12 +29,12 @@ Microsoft Entra ID (Free tier) for a fictional company.
 | Sales-Staff | Kevin, Zanele |
 
 **Steps:** Entra ID > Groups > New group (Security, Assigned)
-**Screenshot:** ![groups](screenshots/groups.png)
+**Screenshot:** ![Security group creation](Security%20group%20creation.png)
 
 ## 3. Role assignment (least privilege)
 Assigned **User Administrator** (Active, permanent) to Lerato Naidoo
 instead of Global Administrator.
-**Screenshot:** ![role](screenshots/role-assignment.png)
+**Screenshot:** ![Role assignment](Role%20assignment.png)
 
 ## 4. Permission testing as Lerato
 | Test | Result | Why |
